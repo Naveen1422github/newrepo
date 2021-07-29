@@ -6,3 +6,4 @@ int main(){
  // added a branch named feature1 
  // and wrote these comments 
 	
+// this file fixex by naveen on feature1
